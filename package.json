@@ -1,0 +1,11 @@
+{
+  "name": "clut-chrome-extension",
+  "version": "1.0.0",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "0.0.175",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.4"
+  }
+}
